@@ -976,6 +976,10 @@ img {
   .padding1 {
     padding: 0;
   }
+
+  .img-article {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 420px) {
